@@ -1,5 +1,12 @@
 <h1 align="center">Hi and welcome 👋, I'm Andreas Abromont</h1>
-<h3 align="center">I am a former Financial manager with passion for IT, Programming, Data Science and Artificial Intelligence</h3>
+<h3 align="center">Former Financial manager with passion for IT, Programming, Data Science and Artificial Intelligence.</h3>
+
+<h3 align="left">Main Highlight:</h3>
+
+- Sign-Sense Project => Using CNNs, transfer learning and MediaPipe/CV2 to train deep learning models to classify American Sign Language into plain text for images, videos and real-time webcam feeds. Deployment of its API in the cloud for live end-user usage.  
+👉 [Sign-Sense](https://github.com/Andreas-aa/Sign-Sense)
+
+   
 
 <h3 align="left">Main studies:</h3>
 
@@ -10,7 +17,6 @@
 - Lycée Albert Schweitzer 2015 => 2 years of preparatory school (MPSI/MP*), learning intense Maths/Physics/Computer Science 
 
 
-📫 How to reach me andreas.abromont@edhec.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
