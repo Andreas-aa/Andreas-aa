@@ -4,7 +4,7 @@
 <h3 align="left">Main Highlights:</h3>
 
 - Tennis Hit and Bounce Detection from Ball Trajectories => A hybrid ML + physics project designed to detect ball hits and bounces from 2D trajectory data. The pipeline integrates preprocessing, feature engineering, a Random Forest classifier, and temporal suppression to handle noise and improve real-life prediction accuracy.
-- 👉 [Hit-Bounce](https://github.com/Andreas-aa/hit-bounce-detection)
+👉 [Hit-Bounce](https://github.com/Andreas-aa/hit-bounce-detection)
 
 Developed and tested using trajectory data extracted from a Roland-Garros match (Alcaraz vs Sinner).
 - Sign-Sense Project => Using CNNs, transfer learning and MediaPipe/CV2 to train deep learning models to classify American Sign Language into plain text for images, videos and real-time webcam feeds. Deployment of its API in the cloud for live end-user usage.  
