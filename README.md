@@ -3,11 +3,8 @@
 
 <h3 align="left">Main Highlights:</h3>
 
-- Tennis Hit and Bounce Detection from Ball Trajectories => A hybrid ML and physics-based project designed to detect ball hits and bounces from 2D trajectory data. The pipeline integrates preprocessing and feature engineering, followed by two independent detection approaches:
-   - Random Forest classifier (supervised ML), and
-   - Rule-based physics detector that directly identifies hits and bounces from motion dynamics.
-
-Temporal suppression is applied to reduce noise and improve real-life prediction accuracy.
+- Tennis Hit and Bounce Detection from Ball Trajectories => A hybrid ML and physics-based project designed to detect ball hits and bounces from 2D trajectory data. The pipeline integrates preprocessing and feature engineering, followed by two independent detection approaches: Random Forest classifier and a rule-based physics detector that directly identifies hits and bounces from motion dynamics.
+Temporal suppression is applied to reduce noise and improve real-life prediction accuracy.  
 👉 [Hit-Bounce](https://github.com/Andreas-aa/hit-bounce-detection)
 
 Developed and tested using trajectory data extracted from a Roland-Garros match (Alcaraz vs Sinner).
