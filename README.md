@@ -1,7 +1,7 @@
 <h1 align="center">Hi and welcome 👋, I'm Andreas Abromont</h1>
 <h3 align="center">Former Financial manager with passion for IT, Programming, Data Science and Artificial Intelligence.</h3>
 
-<h3 align="left">Main Highlight:</h3>
+<h3 align="left">Main Highlights:</h3>
 
 - Tennis Hit and Bounce Detection from Ball Trajectories => A hybrid ML + physics project designed to detect ball hits and bounces from 2D trajectory data. The pipeline integrates preprocessing, feature engineering, a Random Forest classifier, and temporal suppression to handle noise and improve real-life prediction accuracy.
 - 👉 [Hit-Bounce](https://github.com/Andreas-aa/hit-bounce-detection)
