@@ -1,5 +1,5 @@
 <h1 align="center">Hi and welcome 👋, I'm Andreas Abromont</h1>
-<h3 align="center">Former Financial manager with passion for IT, Programming, Data Science and Artificial Intelligence.</h3>
+<h3 align="center">Data Scientits at Ekimetrics and passionate about sports.</h3>
 
 <h3 align="left">Main Highlights:</h3>
 
